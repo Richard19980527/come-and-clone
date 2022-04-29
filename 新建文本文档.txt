@@ -1,0 +1,806 @@
+@inproceedings{DBLP:conf/aaai/ArikP21,
+  author    = {Sercan {\"{O}}. Arik and
+               Tomas Pfister},
+  title     = {TabNet: Attentive Interpretable Tabular Learning},
+  booktitle = {Thirty-Fifth {AAAI} Conference on Artificial Intelligence, {AAAI}
+               2021, Thirty-Third Conference on Innovative Applications of Artificial
+               Intelligence, {IAAI} 2021, The Eleventh Symposium on Educational Advances
+               in Artificial Intelligence, {EAAI} 2021, Virtual Event, February 2-9,
+               2021},
+  pages     = {6679--6687},
+  publisher = {{AAAI} Press},
+  year      = {2021},
+  url       = {https://ojs.aaai.org/index.php/AAAI/article/view/16826},
+%   biburl    = {https://dblp.org/rec/conf/aaai/ArikP21.bib},
+%   bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+@article{DBLP:journals/corr/abs-2002-02046,
+  author    = {Milan Cvitkovic},
+  title     = {Supervised Learning on Relational Databases with Graph Neural Networks},
+  journal   = {CoRR},
+  volume    = {abs/2002.02046},
+  year      = {2020},
+%   url       = {https://arxiv.org/abs/2002.02046},
+  eprinttype = {arXiv},
+%   eprint    = {2002.02046},
+%   timestamp = {Mon, 10 Feb 2020 15:12:57 +0100},
+%   biburl    = {https://dblp.org/rec/journals/corr/abs-2002-02046.bib},
+%   bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/pvldb/Rendle13,
+  author    = {Steffen Rendle},
+  title     = {Scaling Factorization Machines to Relational Data},
+  journal   = {Proc. {VLDB} Endow.},
+  volume    = {6},
+  number    = {5},
+  pages     = {337--348},
+  year      = {2013},
+%   url       = {http://www.vldb.org/pvldb/vol6/p337-rendle.pdf},
+%   doi       = {10.14778/2535573.2488340},
+%   timestamp = {Sat, 25 Apr 2020 13:59:09 +0200},
+%   biburl    = {https://dblp.org/rec/journals/pvldb/Rendle13.bib},
+%   bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/sigmod/BordawekarS17,
+  author    = {Rajesh Bordawekar and
+               Oded Shmueli},
+  editor    = {Sebastian Schelter and
+               Reza Zadeh},
+  title     = {Using Word Embedding to Enable Semantic Queries in Relational Databases},
+  booktitle = {Proceedings of the 1st Workshop on Data Management for End-to-End
+               Machine Learning, DEEM@SIGMOD 2017, Chicago, IL, USA, May 14, 2017},
+  pages     = {5:1--5:4},
+  publisher = {{ACM}},
+  year      = {2017},
+%   url       = {https://doi.org/10.1145/3076246.3076251},
+%   doi       = {10.1145/3076246.3076251},
+%   timestamp = {Fri, 05 Apr 2019 12:15:55 +0200},
+%   biburl    = {https://dblp.org/rec/conf/sigmod/BordawekarS17.bib},
+%   bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/tods/KhamisNNOS20,
+  author    = {Mahmoud Abo Khamis and
+               Hung Q. Ngo and
+               XuanLong Nguyen and
+               Dan Olteanu and
+               Maximilian Schleich},
+  title     = {Learning Models over Relational Data Using Sparse Tensors and Functional
+               Dependencies},
+  journal   = {{ACM} Trans. Database Syst.},
+  volume    = {45},
+  number    = {2},
+  pages     = {7:1--7:66},
+  year      = {2020},
+  url       = {https://doi.org/10.1145/3375661},
+  doi       = {10.1145/3375661},
+  timestamp = {Thu, 14 Oct 2021 09:33:14 +0200},
+  biburl    = {https://dblp.org/rec/journals/tods/KhamisNNOS20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/sigmod/LiC019,
+  author    = {Side Li and
+               Lingjiao Chen and
+               Arun Kumar},
+  editor    = {Peter A. Boncz and
+               Stefan Manegold and
+               Anastasia Ailamaki and
+               Amol Deshpande and
+               Tim Kraska},
+  title     = {Enabling and Optimizing Non-linear Feature Interactions in Factorized
+               Linear Algebra},
+  booktitle = {Proceedings of the 2019 International Conference on Management of
+               Data, {SIGMOD} Conference 2019, Amsterdam, The Netherlands, June 30
+               - July 5, 2019},
+  pages     = {1571--1588},
+  publisher = {{ACM}},
+  year      = {2019},
+  url       = {https://doi.org/10.1145/3299869.3319878},
+  doi       = {10.1145/3299869.3319878},
+  timestamp = {Sat, 22 Jun 2019 17:10:04 +0200},
+  biburl    = {https://dblp.org/rec/conf/sigmod/LiC019.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/sigmod/0059Z0JOT16,
+  author    = {Wei Wang and
+               Meihui Zhang and
+               Gang Chen and
+               H. V. Jagadish and
+               Beng Chin Ooi and
+               Kian{-}Lee Tan},
+  title     = {Database Meets Deep Learning: Challenges and Opportunities},
+  journal   = {{SIGMOD} Rec.},
+  volume    = {45},
+  number    = {2},
+  pages     = {17--22},
+  year      = {2016},
+  url       = {https://doi.org/10.1145/3003665.3003669},
+  doi       = {10.1145/3003665.3003669},
+  timestamp = {Wed, 15 Dec 2021 12:36:56 +0100},
+  biburl    = {https://dblp.org/rec/journals/sigmod/0059Z0JOT16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/ecml/KocsisS06,
+  author    = {Levente Kocsis and
+               Csaba Szepesv{\'{a}}ri},
+  editor    = {Johannes F{\"{u}}rnkranz and
+               Tobias Scheffer and
+               Myra Spiliopoulou},
+  title     = {Bandit Based Monte-Carlo Planning},
+  booktitle = {Machine Learning: {ECML} 2006, 17th European Conference on Machine
+               Learning, Berlin, Germany, September 18-22, 2006, Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {4212},
+  pages     = {282--293},
+  publisher = {Springer},
+  year      = {2006},
+  url       = {https://doi.org/10.1007/11871842\_29},
+  doi       = {10.1007/11871842\_29},
+  timestamp = {Tue, 14 May 2019 10:00:54 +0200},
+  biburl    = {https://dblp.org/rec/conf/ecml/KocsisS06.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+@article{DBLP:journals/ml/AuerCF02,
+  author    = {Peter Auer and
+               Nicol{\`{o}} Cesa{-}Bianchi and
+               Paul Fischer},
+  title     = {Finite-time Analysis of the Multiarmed Bandit Problem},
+  journal   = {Mach. Learn.},
+  volume    = {47},
+  number    = {2-3},
+  pages     = {235--256},
+  year      = {2002},
+  url       = {https://doi.org/10.1023/A:1013689704352},
+  doi       = {10.1023/A:1013689704352},
+  timestamp = {Mon, 02 Mar 2020 16:28:55 +0100},
+  biburl    = {https://dblp.org/rec/journals/ml/AuerCF02.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+@inproceedings{DBLP:conf/sigmod/NikolicZ0O20,
+  author    = {Milos Nikolic and
+               Haozhe Zhang and
+               Ahmet Kara and
+               Dan Olteanu},
+  editor    = {David Maier and
+               Rachel Pottinger and
+               AnHai Doan and
+               Wang{-}Chiew Tan and
+               Abdussalam Alawini and
+               Hung Q. Ngo},
+  title     = {{F-IVM:} Learning over Fast-Evolving Relational Data},
+  booktitle = {Proceedings of the 2020 International Conference on Management of
+               Data, {SIGMOD} Conference 2020, online conference [Portland, OR, USA],
+               June 14-19, 2020},
+  pages     = {2773--2776},
+  publisher = {{ACM}},
+  year      = {2020},
+  url       = {https://doi.org/10.1145/3318464.3384702},
+  doi       = {10.1145/3318464.3384702},
+  timestamp = {Fri, 21 Aug 2020 17:36:54 +0200},
+  biburl    = {https://dblp.org/rec/conf/sigmod/NikolicZ0O20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/sigmod/CaiZ0JOZ21,
+  author    = {Shaofeng Cai and
+               Kaiping Zheng and
+               Gang Chen and
+               H. V. Jagadish and
+               Beng Chin Ooi and
+               Meihui Zhang},
+  editor    = {Guoliang Li and
+               Zhanhuai Li and
+               Stratos Idreos and
+               Divesh Srivastava},
+  title     = {ARM-Net: Adaptive Relation Modeling Network for Structured Data},
+  booktitle = {{SIGMOD} '21: International Conference on Management of Data, Virtual
+               Event, China, June 20-25, 2021},
+  pages     = {207--220},
+  publisher = {{ACM}},
+  year      = {2021},
+  url       = {https://doi.org/10.1145/3448016.3457321},
+  doi       = {10.1145/3448016.3457321},
+  timestamp = {Wed, 15 Dec 2021 12:36:55 +0100},
+  biburl    = {https://dblp.org/rec/conf/sigmod/CaiZ0JOZ21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/sigmod/KumarNPZ16,
+  author    = {Arun Kumar and
+               Jeffrey F. Naughton and
+               Jignesh M. Patel and
+               Xiaojin Zhu},
+  editor    = {Fatma {\"{O}}zcan and
+               Georgia Koutrika and
+               Sam Madden},
+  title     = {To Join or Not to Join?: Thinking Twice about Joins before Feature
+               Selection},
+  booktitle = {Proceedings of the 2016 International Conference on Management of
+               Data, {SIGMOD} Conference 2016, San Francisco, CA, USA, June 26 -
+               July 01, 2016},
+  pages     = {19--34},
+  publisher = {{ACM}},
+  year      = {2016},
+  url       = {https://doi.org/10.1145/2882903.2882952},
+  doi       = {10.1145/2882903.2882952},
+  timestamp = {Wed, 14 Nov 2018 10:56:20 +0100},
+  biburl    = {https://dblp.org/rec/conf/sigmod/KumarNPZ16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/kdd/LiuFWWBL19,
+  author    = {Kunpeng Liu and
+               Yanjie Fu and
+               Pengfei Wang and
+               Le Wu and
+               Rui Bo and
+               Xiaolin Li},
+  editor    = {Ankur Teredesai and
+               Vipin Kumar and
+               Ying Li and
+               R{\'{o}}mer Rosales and
+               Evimaria Terzi and
+               George Karypis},
+  title     = {Automating Feature Subspace Exploration via Multi-Agent Reinforcement
+               Learning},
+  booktitle = {Proceedings of the 25th {ACM} {SIGKDD} International Conference on
+               Knowledge Discovery {\&} Data Mining, {KDD} 2019, Anchorage, AK,
+               USA, August 4-8, 2019},
+  pages     = {207--215},
+  publisher = {{ACM}},
+  year      = {2019},
+  url       = {https://doi.org/10.1145/3292500.3330868},
+  doi       = {10.1145/3292500.3330868},
+  timestamp = {Thu, 14 Oct 2021 09:50:02 +0200},
+  biburl    = {https://dblp.org/rec/conf/kdd/LiuFWWBL19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/pvldb/ShahKZ17,
+  author    = {Vraj Shah and
+               Arun Kumar and
+               Xiaojin Zhu},
+  title     = {Are Key-Foreign Key Joins Safe to Avoid when Learning High-Capacity
+               Classifiers?},
+  journal   = {Proc. {VLDB} Endow.},
+  volume    = {11},
+  number    = {3},
+  pages     = {366--379},
+  year      = {2017},
+  url       = {http://www.vldb.org/pvldb/vol11/p366-shah.pdf},
+  doi       = {10.14778/3157794.3157804},
+  timestamp = {Sat, 25 Apr 2020 13:58:54 +0200},
+  biburl    = {https://dblp.org/rec/journals/pvldb/ShahKZ17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/sigmod/Miao0021,
+  author    = {Zhengjie Miao and
+               Yuliang Li and
+               Xiaolan Wang},
+  editor    = {Guoliang Li and
+               Zhanhuai Li and
+               Stratos Idreos and
+               Divesh Srivastava},
+  title     = {Rotom: {A} Meta-Learned Data Augmentation Framework for Entity Matching,
+               Data Cleaning, Text Classification, and Beyond},
+  booktitle = {{SIGMOD} '21: International Conference on Management of Data, Virtual
+               Event, China, June 20-25, 2021},
+  pages     = {1303--1316},
+  publisher = {{ACM}},
+  year      = {2021},
+  url       = {https://doi.org/10.1145/3448016.3457258},
+  doi       = {10.1145/3448016.3457258},
+  timestamp = {Mon, 21 Jun 2021 11:48:44 +0200},
+  biburl    = {https://dblp.org/rec/conf/sigmod/Miao0021.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/ijcai/CaiNH13,
+  author    = {Xiao Cai and
+               Feiping Nie and
+               Heng Huang},
+  editor    = {Francesca Rossi},
+  title     = {Exact Top-k Feature Selection via l2, 0-Norm Constraint},
+  booktitle = {{IJCAI} 2013, Proceedings of the 23rd International Joint Conference
+               on Artificial Intelligence, Beijing, China, August 3-9, 2013},
+  pages     = {1240--1246},
+  publisher = {{IJCAI/AAAI}},
+  year      = {2013},
+  url       = {http://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/view/6975},
+  timestamp = {Tue, 08 Mar 2022 17:41:51 +0100},
+  biburl    = {https://dblp.org/rec/conf/ijcai/CaiNH13.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{kendall2018multi,
+  title={Multi-task learning using uncertainty to weigh losses for scene geometry and semantics},
+  author={Kendall, Alex and Gal, Yarin and Cipolla, Roberto},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={7482--7491},
+  year={2018}
+}
+@inproceedings{chen2018gradnorm,
+  title={Gradnorm: Gradient normalization for adaptive loss balancing in deep multitask networks},
+  author={Chen, Zhao and Badrinarayanan, Vijay and Lee, Chen-Yu and Rabinovich, Andrew},
+  booktitle={International Conference on Machine Learning},
+  pages={794--803},
+  year={2018},
+  organization={PMLR}
+}
+@inproceedings{hessel2019multi,
+  title={Multi-task deep reinforcement learning with popart},
+  author={Hessel, Matteo and Soyer, Hubert and Espeholt, Lasse and Czarnecki, Wojciech and Schmitt, Simon and van Hasselt, Hado},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={33},
+  number={01},
+  pages={3796--3803},
+  year={2019}
+}
+@inproceedings{pathak2017curiosity,
+  title={Curiosity-driven exploration by self-supervised prediction},
+  author={Pathak, Deepak and Agrawal, Pulkit and Efros, Alexei A and Darrell, Trevor},
+  booktitle={International conference on machine learning},
+  pages={2778--2787},
+  year={2017},
+  organization={PMLR}
+}
+@article{tang2021discovering,
+  title={Discovering diverse multi-agent strategic behavior via reward randomization},
+  author={Tang, Zhenggang and Yu, Chao and Chen, Boyuan and Xu, Huazhe and Wang, Xiaolong and Fang, Fei and Du, Simon and Wang, Yu and Wu, Yi},
+  journal={arXiv preprint arXiv:2103.04564},
+  year={2021}
+}
+@article{narendra1977branch,
+  title={A branch and bound algorithm for feature subset selection},
+  author={Narendra, Patrenahalli M. and Fukunaga, Keinosuke},
+  journal={IEEE Transactions on computers},
+  volume={26},
+  number={09},
+  pages={917--922},
+  year={1977},
+  publisher={IEEE Computer Society}
+}
+@article{tibshirani1996regression,
+  title={Regression shrinkage and selection via the lasso},
+  author={Tibshirani, Robert},
+  journal={Journal of the Royal Statistical Society: Series B (Methodological)},
+  volume={58},
+  number={1},
+  pages={267--288},
+  year={1996},
+  publisher={Wiley Online Library}
+}
+@article{xu2015banian,
+  title={Banian: A cross-platform interactive query system for structured big data},
+  author={Xu, Tao and Wang, Dongsheng and Liu, Guodong},
+  journal={Tsinghua Science and Technology},
+  volume={20},
+  number={1},
+  pages={62--71},
+  year={2015},
+  publisher={TUP}
+}
+@inproceedings{khan2020weblens,
+  title={WebLens: towards interactive large-scale structured data profiling},
+  author={Khan, Rituparna and Gubanov, Michael},
+  booktitle={Proceedings of the 29th ACM International Conference on Information \& Knowledge Management},
+  pages={3425--3428},
+  year={2020}
+}
+@article{fard2013using,
+  title={Using reinforcement learning to find an optimal set of features},
+  author={Fard, Seyed Mehdi Hazrati and Hamzeh, Ali and Hashemi, Sattar},
+  journal={Computers \& Mathematics with Applications},
+  volume={66},
+  number={10},
+  pages={1892--1904},
+  year={2013},
+  publisher={Elsevier}
+}
+@inproceedings{kroon2009automatic,
+  title={Automatic feature selection for model-based reinforcement learning in factored MDPs},
+  author={Kroon, Mark and Whiteson, Shimon},
+  booktitle={2009 International Conference on Machine Learning and Applications},
+  pages={324--330},
+  year={2009},
+  organization={IEEE}
+}
+@inproceedings{liu2019automating,
+  title={Automating feature subspace exploration via multi-agent reinforcement learning},
+  author={Liu, Kunpeng and Fu, Yanjie and Wang, Pengfei and Wu, Le and Bo, Rui and Li, Xiaolin},
+  booktitle={Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+  pages={207--215},
+  year={2019}
+}
+@article{ecoffet2019go,
+  title={Go-explore: a new approach for hard-exploration problems},
+  author={Ecoffet, Adrien and Huizinga, Joost and Lehman, Joel and Stanley, Kenneth O and Clune, Jeff},
+  journal={arXiv preprint arXiv:1901.10995},
+  year={2019}
+}
+@article{ecoffet2021first,
+  title={First return, then explore},
+  author={Ecoffet, Adrien and Huizinga, Joost and Lehman, Joel and Stanley, Kenneth O and Clune, Jeff},
+  journal={Nature},
+  volume={590},
+  number={7847},
+  pages={580--586},
+  year={2021},
+  publisher={Nature Publishing Group}
+}
+@article{peng2005feature,
+  title={Feature selection based on mutual information criteria of max-dependency, max-relevance, and min-redundancy},
+  author={Peng, Hanchuan and Long, Fuhui and Ding, Chris},
+  journal={IEEE Transactions on pattern analysis and machine intelligence},
+  volume={27},
+  number={8},
+  pages={1226--1238},
+  year={2005},
+  publisher={IEEE}
+}
+@article{granitto2006recursive,
+  title={Recursive feature elimination with random forest for PTR-MS analysis of agroindustrial products},
+  author={Granitto, Pablo M and Furlanello, Cesare and Biasioli, Franco and Gasperi, Flavia},
+  journal={Chemometrics and intelligent laboratory systems},
+  volume={83},
+  number={2},
+  pages={83--90},
+  year={2006},
+  publisher={Elsevier}
+}
+@article{paniri2021ant,
+  title={Ant-TD: Ant colony optimization plus temporal difference reinforcement learning for multi-label feature selection},
+  author={Paniri, Mohsen and Dowlatshahi, Mohammad Bagher and Nezamabadi-pour, Hossein},
+  journal={Swarm and Evolutionary Computation},
+  volume={64},
+  pages={100892},
+  year={2021},
+  publisher={Elsevier}
+}
+@inproceedings{zhang2020multi,
+  title={Multi-label Feature Selection via Global Relevance and Redundancy Optimization.},
+  author={Zhang, Jia and Lin, Yidong and Jiang, Min and Li, Shaozi and Tang, Yong and Tan, Kay Chen},
+  booktitle={IJCAI},
+  pages={2512--2518},
+  year={2020}
+}
+@article{dorigo2006ant,
+  title={Ant colony optimization},
+  author={Dorigo, Marco and Birattari, Mauro and Stutzle, Thomas},
+  journal={IEEE computational intelligence magazine},
+  volume={1},
+  number={4},
+  pages={28--39},
+  year={2006},
+  publisher={IEEE}
+}
+
+@article{Chang2011LIBSVMAL,
+  title={LIBSVM: A library for support vector machines},
+  author={Chih-Chung Chang and Chih-Jen Lin},
+  journal={ACM Trans. Intell. Syst. Technol.},
+  year={2011},
+  volume={2},
+  pages={27:1-27:27}
+}
+
+@inproceedings{Yang1997ACS,
+  title={A Comparative Study on Feature Selection in Text Categorization},
+  author={Yiming Yang and Jan O. Pedersen},
+  booktitle={ICML},
+  year={1997}
+}
+
+@article{Granitto2006RecursiveFE,
+  title={Recursive feature elimination with random forest for PTR-MS analysis of agroindustrial products},
+  author={Pablo M. Granitto and Cesare Furlanello and Franco Biasioli and Flavia Gasperi},
+  journal={Chemometrics and Intelligent Laboratory Systems},
+  year={2006},
+  volume={83},
+  pages={83-90}
+}
+
+
+@inproceedings{Zhang2020MultilabelFS,
+  title={Multi-label Feature Selection via Global Relevance and Redundancy Optimization},
+  author={Jia Zhang and Yidong Lin and Min Jiang and Shaozi Li and Yong Tang and Kay Chen Tan},
+  booktitle={IJCAI},
+  year={2020}
+}
+
+@article{Paniri2021AntTDAC,
+  title={Ant-TD: Ant colony optimization plus temporal difference reinforcement learning for multi-label feature selection},
+  author={Mohsen Paniri and Mohammad Bagher Dowlatshahi and Hossein Nezamabadi-pour},
+  journal={Swarm Evol. Comput.},
+  year={2021},
+  volume={64},
+  pages={100892}
+}
+
+
+@article{Zhang2019ManifoldRD,
+  title={Manifold regularized discriminative feature selection for multi-label learning},
+  author={Jia Zhang and Zhiming Luo and Candong Li and Changen Zhou and Shaozi Li},
+  journal={Pattern Recognit.},
+  year={2019},
+  volume={95},
+  pages={136-150}
+}
+
+@article{Zhang2019DistinguishingTT,
+  title={Distinguishing two types of labels for multi-label feature selection},
+  author={Ping Zhang and Guixia Liu and Wanfu Gao},
+  journal={Pattern Recognit.},
+  year={2019},
+  volume={95},
+  pages={72-82}
+}
+
+@article{Huang2016LearningLF,
+  title={Learning Label-Specific Features and Class-Dependent Labels for Multi-Label Classification},
+  author={Jun Huang and Guorong Li and Qingming Huang and Xindong Wu},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2016},
+  volume={28},
+  pages={3309-3323}
+}
+
+@article{DBLP:journals/jmlr/GuyonE03,
+  author    = {Isabelle Guyon and
+               Andr{\'{e}} Elisseeff},
+  title     = {An Introduction to Variable and Feature Selection},
+  journal   = {J. Mach. Learn. Res.},
+  volume    = {3},
+  pages     = {1157--1182},
+  year      = {2003},
+  url       = {http://jmlr.org/papers/v3/guyon03a.html},
+  timestamp = {Wed, 10 Jul 2019 15:28:38 +0200},
+  biburl    = {https://dblp.org/rec/journals/jmlr/GuyonE03.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/jmlr/Forman03,
+  author    = {George Forman},
+  title     = {An Extensive Empirical Study of Feature Selection Metrics for Text
+               Classification},
+  journal   = {J. Mach. Learn. Res.},
+  volume    = {3},
+  pages     = {1289--1305},
+  year      = {2003},
+  url       = {http://jmlr.org/papers/v3/forman03a.html},
+  timestamp = {Wed, 10 Jul 2019 15:28:12 +0200},
+  biburl    = {https://dblp.org/rec/journals/jmlr/Forman03.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/tc/NarendraF77,
+  author    = {Patrenahalli M. Narendra and
+               Keinosuke Fukunaga},
+  title     = {A Branch and Bound Algorithm for Feature Subset Selection},
+  journal   = {{IEEE} Trans. Computers},
+  volume    = {26},
+  number    = {9},
+  pages     = {917--922},
+  year      = {1977},
+  url       = {https://doi.org/10.1109/TC.1977.1674939},
+  doi       = {10.1109/TC.1977.1674939},
+  timestamp = {Wed, 14 Nov 2018 10:48:33 +0100},
+  biburl    = {https://dblp.org/rec/journals/tc/NarendraF77.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/kdd/KimSM00,
+  author    = {YongSeog Kim and
+               W. Nick Street and
+               Filippo Menczer},
+  editor    = {Raghu Ramakrishnan and
+               Salvatore J. Stolfo and
+               Roberto J. Bayardo and
+               Ismail Parsa},
+  title     = {Feature selection in unsupervised learning via evolutionary search},
+  booktitle = {Proceedings of the sixth {ACM} {SIGKDD} international conference on
+               Knowledge discovery and data mining, Boston, MA, USA, August 20-23,
+               2000},
+  pages     = {365--369},
+  publisher = {{ACM}},
+  year      = {2000},
+  url       = {https://doi.org/10.1145/347090.347169},
+  doi       = {10.1145/347090.347169},
+  timestamp = {Sun, 02 Jun 2019 21:11:52 +0200},
+  biburl    = {https://dblp.org/rec/conf/kdd/KimSM00.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+@article{DBLP:journals/expert/YangH98,
+  author    = {Jihoon Yang and
+               Vasant G. Honavar},
+  title     = {Feature Subset Selection Using a Genetic Algorithm},
+  journal   = {{IEEE} Intell. Syst.},
+  volume    = {13},
+  number    = {2},
+  pages     = {44--49},
+  year      = {1998},
+  url       = {https://doi.org/10.1109/5254.671091},
+  doi       = {10.1109/5254.671091},
+  timestamp = {Fri, 06 Mar 2020 22:01:06 +0100},
+  biburl    = {https://dblp.org/rec/journals/expert/YangH98.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{Sugumaran2007FeatureSU,
+  title={Feature selection using Decision Tree and classification through Proximal Support Vector Machine for fault diagnostics of roller bearing},
+  author={V. Sugumaran and V. Muralidharan and K. I. Ramachandran},
+  journal={Mechanical Systems and Signal Processing},
+  year={2007},
+  volume={21},
+  pages={930-942}
+}
+
+@article{DBLP:journals/ml/GuyonWBV02,
+  author    = {Isabelle Guyon and
+               Jason Weston and
+               Stephen Barnhill and
+               Vladimir Vapnik},
+  title     = {Gene Selection for Cancer Classification using Support Vector Machines},
+  journal   = {Mach. Learn.},
+  volume    = {46},
+  number    = {1-3},
+  pages     = {389--422},
+  year      = {2002},
+  url       = {https://doi.org/10.1023/A:1012487302797},
+  doi       = {10.1023/A:1012487302797},
+  timestamp = {Mon, 02 Mar 2020 16:29:34 +0100},
+  biburl    = {https://dblp.org/rec/journals/ml/GuyonWBV02.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{Yu2003FeatureSF,
+  title={Feature Selection for High-Dimensional Data: A Fast Correlation-Based Filter Solution},
+  author={Lei Yu and Huan Liu},
+  booktitle={ICML},
+  year={2003}
+}
+
+
+@article{DBLP:journals/isci/ZhangGHL21,
+  author    = {Ping Zhang and
+               Wanfu Gao and
+               Juncheng Hu and
+               Yonghao Li},
+  title     = {Multi-label feature selection based on the division of label topics},
+  journal   = {Inf. Sci.},
+  volume    = {553},
+  pages     = {129--153},
+  year      = {2021},
+  url       = {https://doi.org/10.1016/j.ins.2020.12.036},
+  doi       = {10.1016/j.ins.2020.12.036},
+  timestamp = {Wed, 20 Jan 2021 15:40:20 +0100},
+  biburl    = {https://dblp.org/rec/journals/isci/ZhangGHL21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/pr/BoutellLSB04,
+  author    = {Matthew R. Boutell and
+               Jiebo Luo and
+               Xipeng Shen and
+               Christopher M. Brown},
+  title     = {Learning multi-label scene classification},
+  journal   = {Pattern Recognit.},
+  volume    = {37},
+  number    = {9},
+  pages     = {1757--1771},
+  year      = {2004},
+  url       = {https://doi.org/10.1016/j.patcog.2004.03.009},
+  doi       = {10.1016/j.patcog.2004.03.009},
+  timestamp = {Mon, 26 Oct 2020 08:31:07 +0100},
+  biburl    = {https://dblp.org/rec/journals/pr/BoutellLSB04.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{Trohidis2008MultiLabelCO,
+  title={Multi-Label Classification of Music into Emotions},
+  author={Konstantinos Trohidis and Grigorios Tsoumakas and George Kalliris and Ioannis P. Vlahavas},
+  booktitle={ISMIR},
+  year={2008}
+}
+
+@inproceedings{Read2008APP,
+  title={A Pruned Problem Transformation Method for Multi-label Classification},
+  author={Jesse Read},
+  year={2008}
+}
+
+@article{VithayathilVarghese2020ASO,
+  title={A Survey of Multi-Task Deep Reinforcement Learning},
+  author={Nelson Vithayathil Varghese and Qusay H. Mahmoud},
+  journal={Electronics},
+  year={2020}
+}
+@article{caruana1997multitask,
+  title={Multitask learning},
+  author={Caruana, Rich},
+  journal={Machine learning},
+  volume={28},
+  number={1},
+  pages={41--75},
+  year={1997},
+  publisher={Springer}
+}
+@article{fan2021interactive,
+  title={Interactive reinforcement learning for feature selection with decision tree in the loop},
+  author={Fan, Wei and Liu, Kunpeng and Liu, Hao and Ge, Yong and Xiong, Hui and Fu, Yanjie},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2021},
+  publisher={IEEE}
+}
+
+
+@inproceedings{DBLP:conf/icdm/Zhao00JZYF20,
+  author    = {Xiaosa Zhao and
+               Kunpeng Liu and
+               Wei Fan and
+               Lu Jiang and
+               Xiaowei Zhao and
+               Minghao Yin and
+               Yanjie Fu},
+  editor    = {Claudia Plant and
+               Haixun Wang and
+               Alfredo Cuzzocrea and
+               Carlo Zaniolo and
+               Xindong Wu},
+  title     = {Simplifying Reinforced Feature Selection via Restructured Choice Strategy
+               of Single Agent},
+  booktitle = {20th {IEEE} International Conference on Data Mining, {ICDM} 2020,
+               Sorrento, Italy, November 17-20, 2020},
+  pages     = {871--880},
+  publisher = {{IEEE}},
+  year      = {2020},
+  url       = {https://doi.org/10.1109/ICDM50108.2020.00096},
+  doi       = {10.1109/ICDM50108.2020.00096},
+  timestamp = {Mon, 09 Aug 2021 08:48:35 +0200},
+  biburl    = {https://dblp.org/rec/conf/icdm/Zhao00JZYF20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{Rodgers1988ThirteenWT,
+  title={Thirteen ways to look at the correlation coefficient},
+  author={Joseph Lee Rodgers and W Alan Nicewander},
+  journal={The American Statistician},
+  year={1988},
+  volume={42},
+  pages={59-66}
+}
+@inproceedings{DBLP:conf/icml/WangSHHLF16,
+  author    = {Ziyu Wang and
+               Tom Schaul and
+               Matteo Hessel and
+               Hado van Hasselt and
+               Marc Lanctot and
+               Nando de Freitas},
+  editor    = {Maria{-}Florina Balcan and
+               Kilian Q. Weinberger},
+  title     = {Dueling Network Architectures for Deep Reinforcement Learning},
+  booktitle = {Proceedings of the 33nd International Conference on Machine Learning,
+               {ICML} 2016, New York City, NY, USA, June 19-24, 2016},
+  series    = {{JMLR} Workshop and Conference Proceedings},
+  volume    = {48},
+  pages     = {1995--2003},
+  publisher = {JMLR.org},
+  year      = {2016},
+  url       = {http://proceedings.mlr.press/v48/wangf16.html},
+  timestamp = {Wed, 29 May 2019 08:41:46 +0200},
+  biburl    = {https://dblp.org/rec/conf/icml/WangSHHLF16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
